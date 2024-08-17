@@ -1,0 +1,10 @@
+
+log:
+  type: local
+  loglevel: debug
+
+db:
+  host: localhost
+  port: 5432
+  dbname: postgres
+  migrations: "./db/migrations/"

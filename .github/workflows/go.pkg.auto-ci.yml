@@ -8,4 +8,4 @@ permissions:
 
 jobs:
   go-auto-ci:
-    uses:  tommzn/github-ci/.github/workflows/go.pkg.auto-ci-with-coveralls.yml@v1.0.80
+    uses:  tommzn/github-ci/.github/workflows/go.pkg.auto-ci-with-coveralls.yml@v1.0.81
